@@ -1,5 +1,7 @@
 # Drum Kit
 
+<a herf="https://ovuiproduction.github.io/Drum-Kit/">Deploy on Github pages</a>
+
 A simple Drum Kit web application that allows users to play drum sounds using their keyboard or mouse clicks.
 
 ## Description
